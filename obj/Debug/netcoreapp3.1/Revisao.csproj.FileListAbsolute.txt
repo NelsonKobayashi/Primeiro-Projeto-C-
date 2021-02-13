@@ -1,0 +1,13 @@
+D:\Nelson\Projetinhos\dotnet c#\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+D:\Nelson\Projetinhos\dotnet c#\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+D:\Nelson\Projetinhos\dotnet c#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+D:\Nelson\Projetinhos\dotnet c#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+D:\Nelson\Projetinhos\dotnet c#\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+D:\Nelson\Projetinhos\dotnet c#\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+D:\Nelson\Projetinhos\dotnet c#\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+D:\Nelson\Projetinhos\dotnet c#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+D:\Nelson\Projetinhos\dotnet c#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+D:\Nelson\Projetinhos\dotnet c#\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+D:\Nelson\Projetinhos\dotnet c#\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+D:\Nelson\Projetinhos\dotnet c#\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+D:\Nelson\Projetinhos\dotnet c#\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
